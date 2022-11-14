@@ -1,1 +1,3 @@
-# Dataverse_Hack_Hackathon
+# Dataverse Hack Hackathon
+
+* Catboost with optimised scale_pos_weight parameter
